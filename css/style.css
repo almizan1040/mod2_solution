@@ -1,0 +1,30 @@
+.row{
+	justify-content: center;
+}
+.heading{
+	margin-bottom: 40px;
+	text-align: center;	
+}
+.column1{
+	border: 2px solid black;
+	background-color: grey;
+	margin-bottom: 20px;
+}
+h2 {
+	text-align: center;
+	width: 200px;
+	float: right;
+	border: 1px solid black;
+	background-color: #D59898;
+}
+p{
+	clear: right;
+
+}
+.column-head{
+	color: #ffffff;
+	background-color: #C14543;
+}
+.column_head2{
+	background-color: #E5D198;
+}
